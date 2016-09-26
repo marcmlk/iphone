@@ -1,0 +1,106 @@
+body {
+  background-image: url(../img/nasa-header-image.jpg);
+  background-attachment: fixed;
+}
+.header .center {
+  display: flex;
+  justify-content: center;
+}
+.header .tr {
+  font-size: 10px;
+}
+.header .material-icons {
+  font-size: 14px;
+}
+#ind1 .btn {
+  background-color: #e0e0e0;
+  height: 10px;
+}
+#ind1 .date {
+  text-align: center;
+  margin-top: 50px;
+}
+#ind1 .date h1 {
+  font-size: 20px;
+}
+#ind1 .date h3 {
+  font-size: 18px;
+  margin-left: -10px;
+}
+#ind1 .foot {
+  margin-top: 160px;
+}
+#ind1 .foot .slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#ind1 .foot .slide a {
+  text-decoration: none;
+  color: #9e9e9e ;
+}
+#ind1 .foot .slide a p {
+  margin: 0;
+}
+#ind1 .foot .right {
+  text-align: right;
+}
+#modal1 {
+  background-color: #bdc3c7;
+}
+#modal1 .bout {
+  background: #7f8c8d;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  padding: 8px 9px;
+}
+#modal1 .sunny {
+  background: #7f8c8d;
+  display: flex;
+  justify-content: center;
+}
+#modal1 .volume {
+  display: flex;
+}
+#modal1 .air {
+  background: #7f8c8d;
+  display: flex;
+  justify-content: space-around;
+}
+#modal1 .air .tracak {
+  font-size: 40px;
+}
+#modal1 .air .tracak p {
+  margin: 0;
+}
+#modal1 .btnfo {
+  background: #7f8c8d;
+  border-radius: 20%;
+  width: 40px;
+  height: 40px;
+  padding: 8px 9px;
+}
+#index2 a {
+  color: black;
+  text-decoration: none;
+}
+#index2 .photo {
+  width: 50px !important;
+}
+#index2 .footer {
+  background-color: #bdc3c7;
+}
+#index3 {
+  background: none;
+}
+#index3 .rech {
+  background-color: #bdc3c7;
+}
+#index3 .rech .btnind3 {
+  margin-left: 30px;
+  width: 263px;
+}
+#index3 .contact {
+  border-bottom: 2px solid;
+}
